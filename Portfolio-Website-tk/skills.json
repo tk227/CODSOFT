@@ -1,0 +1,93 @@
+[
+    {
+        "name": "ReactJS",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "ExpressJS",
+        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+    },
+    {
+        "name": "NodeJS",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+
+ 
+    {
+        "name": "Android",
+        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+    },
+    {
+        "name": "MaterialUI",
+        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+    },
+ 
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+ 
+
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+
+ 
+    {
+        "name": "Heroku",
+        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
+    },
+    {
+        "name": "Netlify",
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+    },
+   
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    },
+  {
+        "name": "PowerBI",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADhklEQVR4AWJhoBI4Xc7eD6itDjh3XbAyjP/ut4iGM2nSqFRTIwggBBEE+jLtvkjTEIA+SgCEIODIwDSVpBSVOPtdV2PMy3/Y+2A7B8uzeLAu173W81y9C4IBARUmXPeXf/QXX/w5fGUAl3c1hCkqMwEqMHuHrxagUH79D36RgOKuHo+tgH/6u//FwFcPYO5Z2wZ3VXQkGqb6OgDC1M8SbVOI0PV1GmCsEHdSXkYgvh4DGqi5q83EthV32lrtawKA6DLWDXYX2Ez79Ag+/6vvfC/egUgWSQU+++1f8c0f13/86J/937/+yGMaK0oVtk8yUN4BKUgliM++860fD/8WnV/+jW/7+89/6Fd/6bHLC8JYpXwCgCi/+ce/L1nUeeU96Y6O+OI9zGvomKbgEwBciFKHVKaJOt6aiY4KFBOfClAx6kmpEIUXQJRK8XzWY1ZA+HQDpeiOws9CKMmKounSJoAo2CcagE4dcXdtTSicUKfCw50SUcjyqd+B0h1SRxlefWVekNNl22bC9iUR/OCv//B7be8qW4qhQuCb3/2uX/j273n/Pz/0/r/+wdi9iUQ5UbrwmLhT5fF47KMAp3crgyISUD8Z/tnv/C7e+/lv/Jov/vNzCrnntRlRlMo96/HYsNJd4PoAgNL4rT/5UznD3VXnsQZ6IuBNFGN69SiXsHuqspkofBBAlHpvuHu22ZZ6LVsI1NNdPdZEHaijrI3B4N5rDyvyEQNkTp06Q840wdu8z7QuCiFdyF111rPCHla52AcBHKj3lMdaVZ2w3YhCunN3wWNW5+27scJjW3kZEH08AuppclfbbaO7LIscRS8zqbye8+rH62k268LHAEqiJ3oZQLabUscg3VNpa93bwadS6R4SwdxTnfERgMk8VXhdQuV1CXEhddQqok6iV0356Sk+Vul83EAO3PPZHk0n2VpXxKs6Om/1E6VCKpVtK2peEPmSM9yeW0l0iEJeVcedOl3ttYTQqXSv09vuWWIP68t2gOipN4OqFHsLcuooNOVVOUpN0ft6DX7tQD4IcIC3m3KUrVWvnk73pNzVY0YqxB2XbYPinl4gfHgHIrr3NurA3BQOdIcoFR2oA0o91RT3EwOvX+KX/A1Xkn/8m78FCgEFgDD//S//LowpQQH4tx88+cZgBYhk9gEDz+f3/dz+TBBQDABgoDLAvfpIRFFhBMkwd30f4P8BgCdHZe87LaAAAAAASUVORK5CYII="
+    },
+       {
+        "name": "LaTeX",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC4UlEQVR4AWJ04U0+CyiCHHRlyaIw/G0Um8cY27Zt41UGMUZPMYjHCMa2Z65xbKNV3V28O9UnuTv5s7XW+pGN1K4O6h3cok03iEiTlJNLIIRlNhuBhTB7DxZ+u7RfN9yVq9XwLp1Sm0gpGlaDKIp6rUIbuAjpmd3HdctkmUOS2Ejpw27xch1GIW6Wce2117K0tEStVgNkj8U0SuFRKg8izTlNbbQu0AoE5j2HxjRrrdm/fz9nn3024+PjlEpljh1bR8hC3hgE2py1aXAJIzt/M+gR2LbD7OwsjUaD667r8sZbIWee10KqKkqWkTkqVCujFEtD9PWNUCgM5rvIFQCOU6BSqXLB7W0+mUvZudSj3B2h879D1shypmbLMoNcut2etSiyqUiNFsLBsiscP36c1955mKB5MXJzALXZR6ldRnRTYmuT0IlM416guX/f7B20eSBJCgwMXk/4+zW4ddMc2FixQGcJGtChCbETE7gZTd/Uq2JvkBRokyRKVZGiyHkkXHTtn/RVa7RqBeaOncrGwhBaZFgi5f6b/4FM88f/t3DR/b/z72eXm7480Uoelht1+e+bi7n4wgn+/+YS7DjGFyGejLG1Yvr4Vdzw4D5OP6OLVR9DRRV07kcqlPBprfh4dFAklJwO51ywRHReDaeYMTF1LUE6wL5D93HHk9/z4Scvot3NPQWq3FOgY1xXoCwNlUEuv2uaue0bmFi9E3fUJysPEmRjVAe3cfpSuplt+kTPgjBD1EAZPdyPW8kQ/f2klsepF21w4dVH2OxewNkXH2Np91I+/Op5nnrsZdqhRPcy8DE7Ydmj3B/z099P4QzapMpjqXY5VblDYvmEwmVlZ5wkTfnyl2cpFbb2MlAVzM5i6BF3PLYnziMzA1NpsdMZZ2XuPEaHJvj1v7sIY4gN5pfvxa9PoL1mdkSo5CIhQoSArbUEKUOK/g77vzqVc7L3sf2A/f/cSFqbQkMOALW7MHMCKUkMYucckkMAAAAASUVORK5CYII="
+    },
+     {
+        "name": "Katalon",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAQlBMVEX////Q0NAAAAAQEBDMzMzJycnFxcXGxsbAwMAYGBipqant7e0UAAD17/Hi4uLEv8F917h+5cFT37EB15wZ2J8g2aCUL/L1AAAAZ0lEQVR4Ae3KxxGAMBDFUPPJOfffKhfweNCyFaCrXniVKZYHo0I+KOWDQj4o5QF8gEo+qOUAfoBGPshk1Cags0APgA+AD4AfAT8APwA/AD8AP8AwBqOpeZqXNRbMtv3p+ALH3fmDBFygRQ1VThj6yAAAAABJRU5ErkJggg=="
+    }
+
+]
